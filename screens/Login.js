@@ -1,7 +1,5 @@
-import { StatusBar } from "expo-status-bar";
 import React from "react";
 import {
-	StyleSheet,
 	Text,
 	View,
 	SafeAreaView,
@@ -34,7 +32,9 @@ export default function Login() {
 				</Text>
 
 				<View
-					style={tailwind("flex flex-col items-center w-full mt-8")}
+					style={tailwind(
+						"flex flex-col items-center w-full mt-8 px-5"
+					)}
 				>
 					<TouchableOpacity
 						style={tailwind(
