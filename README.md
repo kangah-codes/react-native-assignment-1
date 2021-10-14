@@ -1,6 +1,6 @@
-### React Native Assignment 1
+# React Native Assignment 1 - 10715959
 
-## Screens
+# Screens
 
 # Login
 
