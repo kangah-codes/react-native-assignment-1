@@ -4,12 +4,12 @@
 
 # Login
 
-![Login Screen](assets/login.png)
+![Login Screen](assets/login.PNG)
 
 # Shop
 
-![Shop Screen](assets/shop.png)
+![Shop Screen](assets/shop.PNG)
 
 # Cart
 
-![Cart Screen](assets/cart.png)
+![Cart Screen](assets/cart.PNG)
